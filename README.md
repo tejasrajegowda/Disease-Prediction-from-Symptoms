@@ -42,10 +42,14 @@ You can either copy paste the whole table from here to an excel sheet or scrape 
 |_ dataset/
          |_ training_data.csv
          |_ test_data.csv
+
 |_ saved_model/
          |_ [ pre-trained models ]
+
 |_ main.py [ code for laoding kaggle dataset, training & saving the model]
+
 |_ increased_accuracy.py [ enhancement for Decision Tree and Random Forest models ]
+
 |_ notebook/
          |_ dataset/
                   |_ raw_data.xlsx [Columbia dataset for notebook]
